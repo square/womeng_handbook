@@ -10,4 +10,4 @@ Reach out to women engineers who can be a “buddy” to a newly-hired engineer 
 At Square, the buddy is encouraged to send a calendar invite for lunch or coffee by the new hire’s second week. If you pair people up in different locations, they can also virtually meet via a streaming service. During this first meeting, the buddy talks through the purpose of WomEng and provides information on recurring events and other groups within Square. Most importantly, they get to know each other and the buddy becomes a resource for the new employee.
 
 ## Calendar invite description template
-Hi, <name>! Welcome to <community name>! I work on the <team name> team and am excited you’re here. I’d love to grab lunch and tell you about our Women in Engineering group (nicknamed WomEng). Please accept if interested.
+Hi, \<name>! Welcome to \<community name>! I work on the \<team name> team and am excited you’re here. I’d love to grab lunch and tell you about our Women in Engineering group (nicknamed WomEng). Please accept if interested.
