@@ -1,6 +1,6 @@
 # WomEng Handbook
 
-At Square, we have a strong, supportive, and empowering community of women engineers and allies. We come together as a group: WomEng. Our group grew from a mailing list to regular, in-person gatherings. Today, WomenEng expands outside of Square and includes a large network of women engineers.
+At Square, we have a strong, supportive, and empowering community of women engineers and allies. We come together as a group: WomEng. Our group grew from a mailing list to regular, in-person gatherings. Today, WomEng expands outside of Square and includes a large network of women engineers.
 
 We had many conversations and meetings to establish our group and come up with our recurring events. So, to help others start or expand a WomEng group in their community, we’re open sourcing a handbook with everything someone needs to get started.
 
