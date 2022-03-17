@@ -1,8 +1,8 @@
 # WomEng Handbook
 
-At Square, we have a strong, supportive, and empowering community of women engineers and allies. We come together as a group: WomEng. Our group grew from a mailing list to regular, in-person gatherings. Today, WomEng expands outside of Square and includes a large network of women engineers.
+At Block, we have a strong, supportive, and empowering community of women engineers and allies. We come together as a group: WomEng. Our group grew from a mailing list to regular, in-person gatherings. Today, WomEng expands outside of Block and includes a large network of women engineers.
 
-We had many conversations and meetings to establish our group and come up with our recurring events. So, to help others start or expand a WomEng group in their community, we’re open sourcing a handbook with everything someone needs to get started.
+We had many conversations and meetings to establish our group and come up with our recurring events. So, to help others start or expand a WomEng group in their community, we're open sourcing a handbook with everything someone needs to get started.
 
 ***
 
@@ -24,13 +24,13 @@ We had many conversations and meetings to establish our group and come up with o
 * [Attending Conferences](conferences/attending.md)
 
 ## Testimonials
-* [Square WomEng](testimonials/square_womeng.md)
+* [Block WomEng](testimonials/block_womeng.md)
 
 ## Contributing
 Pull requests are welcome. We encourage you to share your own resources and event ideas. Together, we can continue to grow the WomEng community.
 
 ## Acknowledgements
-The first version of this handbook wouldn’t be possible without the thoughtful input from these great folks:
+The first version of this handbook wouldn't be possible without the thoughtful input from these great folks:
 
 * Alyssa Pohahau ([@arpohahau](https://twitter.com/arpohahau))
 * Vanessa Slavich ([@vslavich](https://twitter.com/vslavich))
@@ -43,4 +43,4 @@ We hope that many more people contribute.
 
 ## License
 
-© 2016 Square, Inc. The “WomEng Handbook” is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+© 2022 Block, Inc. The "WomEng Handbook" is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
