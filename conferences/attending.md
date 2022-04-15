@@ -12,4 +12,4 @@ Find a conference that aligns with your WomEng group. Some conferences to consid
 * [Write/Speak/Code](http://www.writespeakcode.com/conference/)
 * [Tech Inclusion](http://techinclusion.co/)
 
-Once you choose a conference, draft a proposal outlining any resources you’d like from your company/organization for the group to attend. (This may include the conference fee, traveling costs, or swag to pass out at the conference.) If you’re successful, enjoy the experience with your WomEng group and be prepared to network.
+Once you choose a conference, draft a proposal outlining any resources you'd like from your company/organization for the group to attend. (This may include the conference fee, traveling costs, or swag to pass out at the conference.) If you're successful, enjoy the experience with your WomEng group and be prepared to network.
